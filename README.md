@@ -1,0 +1,2 @@
+# crypto-scanner
+EMA Contraction
